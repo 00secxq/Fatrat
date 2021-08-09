@@ -1,5 +1,5 @@
 <p align="center">
-<img src="" height="60"><br>
+<img src="https://raw.githubusercontent.com/evildevill/Fatrat/main/6089d2958b1fd90bb3f0b202.png" height="60"><br>
 A cloud based Remote Android Managment Suite, Powered by NodeJS
 </p>
 
@@ -45,7 +45,7 @@ A cloud based Remote Android Managment Suite, Powered by NodeJS
 
 . In your browser navigate to `http://<SERVER IP>:22533` & Login with default username and password ( By default server will run on localhost and to make a client APP you can use [PORTMAP](https://portmap.io) to access APP on wide area network)
 
-### For default PASSWORD [CLICK HERE](https://wa.me/923137119351)
+### For default PASSWORD [CLICK HERE](https://pastebin.com/NdMQWDS2)
 
 ## Thanks
  - Inspiration for the project and the basic building blocks for the Android App are based off [L3MON](https://github.com/D3VL/L3MON) 
