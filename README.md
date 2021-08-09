@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/evildevill/Fatrat/main/6089d2958b1fd90bb3f0b202.png" height="60"><br>
+<img src="https://raw.githubusercontent.com/evildevill/Fatrat/main/6089d2958b1fd90bb3f0b202.png" height="80"><br>
 A cloud based Remote Android Managment Suite, Powered by NodeJS
 </p>
 
